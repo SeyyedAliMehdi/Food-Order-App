@@ -6,7 +6,7 @@ import Home from "./pages/Home"
 import About from "./pages/About";
 import Menu from "./pages/Menu";
 import Contact from "./pages/Contact";
-import {Routes, Route, Link } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 
 function App() {
